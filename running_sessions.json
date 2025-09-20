@@ -1,5 +1,5 @@
 {
-    "next_id": 2,
+    "next_id": 3,
     "sessions": [
         {
             "file_name": "sessions_967779702199.session",
@@ -7,6 +7,13 @@
             "temporary": false,
             "user_id": 8155571383,
             "id": 1
+        },
+        {
+            "file_name": "sessions_967773247079.session",
+            "start_time": "2025-09-20T16:57:28.742691+03:00",
+            "temporary": false,
+            "user_id": 8155571383,
+            "id": 2
         }
     ]
 }
